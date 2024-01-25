@@ -28,6 +28,6 @@ If you're on the lookout for a motivated data analyst with a solid engineering b
 
 Feel free to reach out, and let's discuss how we can work together to achieve great things! 🌟
 
-[LinkedIn]https://www.linkedin.com/in/vinaysankhat/ | [GitHub](https://github.com/yourgithubprofile) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/vinaysankhat/) | [GitHub](https://github.com/yourgithubprofile) | [Portfolio](https://yourportfolio.com)
 
 Looking forward to connecting with you! 😊
