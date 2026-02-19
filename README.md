@@ -3,7 +3,6 @@
 Hello there! 👋 I'm Vinay Sankhat, an experienced electrical engineer currently pursuing an MBA at IUBH Germany. I bring a wealth of knowledge in power plants, GIS, switchgear, and utility industries, along with a commitment to excellence and a strong adherence to industry guidelines.
 
 ## 🚀 About Me
-
 - 🔧 **Electrical Engineer:** Proven track record in power plants and chemical plants, adhering to the highest standards of IEC and NEMA guidelines.
 - 📚 **MBA Candidate:** Actively pursuing an MBA at IUBH Germany, specializing in big data, the Internet of Things, and project management.
 
