@@ -1,4 +1,4 @@
-# Aspiring Data Analyst | Electrical Engineer | MBA Big data management
+ Electrical Engineer and planning engineer
 
 Hello there! 👋 I'm Vinay Sankhat, an experienced electrical engineer currently pursuing an MBA at IUBH Germany. I bring a wealth of knowledge in power plants, GIS, switchgear, and utility industries, along with a commitment to excellence and a strong adherence to industry guidelines.
 
